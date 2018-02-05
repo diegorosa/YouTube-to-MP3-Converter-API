@@ -7,10 +7,12 @@ Here is a simple auto responsive[For All Devices] iframe code to easily embed to
 
 MP3 Converter API Code:
 
-<iframe src="https://baixaryoutube.net/@api/button/mp3/YouTube-Video-ID" width="100%" height="100px" scrolling="no" style="border:none;"></iframe>                                                                                                                                  
+<iframe src="https://baixaryoutube.net/@api/button/mp3/YouTube-Video-ID" width="100%" height="100px" scrolling="no" style="border:none;"></iframe> 
+
 MP4, WEbM, 3Gp & Flv Video Converter API Code:
 
-<iframe src="https://baixaryoutube.net/@api/button/videos/YouTube-Video-ID" width="100%" height="100px" scrolling="no" style="border:none;"></iframe>                                                                                                                             
+<iframe src="https://baixaryoutube.net/@api/button/videos/YouTube-Video-ID" width="100%" height="100px" scrolling="no" style="border:none;"></iframe>
+
 Please replace YouTube-Video-ID with dynamic video id value.
 
 Please write to us for any query or support : contato@baixaryoutube.net
