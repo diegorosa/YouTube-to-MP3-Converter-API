@@ -29,6 +29,6 @@ Youtube URL: https://www.youtube.com/watch?v= **rNteJDNG5qY**
 
 YouTube-Video-ID: **rNteJDNG5qY**
 
-Please write to us for any query or support : contato@baixaryoutube.net
+Please write to us for any query or support: contato@baixaryoutube.net
 
 Official API Website: https://baixaryoutube.net/@developers
